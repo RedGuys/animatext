@@ -16,7 +16,7 @@ const fs = require("fs");
 
 let player = new Animatext.Player(
     new animatext.GifDataSource(
-        fs.readFileSync("test/75px-Nature.gif"),
+        fs.readFileSync("test/rainbowspiralplz.gif"),
         {frameDuration: 100, frameSkip: 0,maxWidth:200,maxHeight:24})
 );
 
