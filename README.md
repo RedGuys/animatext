@@ -3,7 +3,7 @@ Little library for text animations. Animate Text.
 
 ## Installation
 ```shell
-npm install git+https://github.com/RedGuys/animatext.git
+npm install animatext
 ```
 
 ## Usage
